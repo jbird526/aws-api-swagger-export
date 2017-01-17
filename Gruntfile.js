@@ -21,7 +21,7 @@ module.exports = function(grunt) {
       options: {
         jshintrc: '.jshintrc'
       }
-    }
+    },
 
     // Configuration to be run (and then tested).
     aws_api_swagger_export: {
