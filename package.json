@@ -1,0 +1,37 @@
+{
+  "name": "grunt-aws-api-swagger-export",
+  "private": true,
+  "description": "Export AWS API Gateway API Swagger file",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "Jason Pecsek",
+    "email": "Jason.Pecsek@umuc.edu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/jpecsek/grunt-aws-api-swagger-export"
+  },
+  "bugs": {
+    "url": ""
+  }, 
+  "license" : "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "aws-sdk": "2.x",
+    "async": "^1.5.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "aws-sdk": "2.x",
+    "async": "^1.5.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
