@@ -2,7 +2,7 @@
   "name": "grunt-aws-api-swagger-export",
   "private": false,
   "description": "Export AWS API Gateway API Swagger file",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/jbird526/aws-api-swagger-export",
   "author": {
     "name": "Jason Pecsek",
