@@ -49,9 +49,10 @@ grunt.initConfig({
 });
 ```
 
-grunt.registerTask('default', ['aws_api_swagger_export']);
+
 
 ```
+grunt.registerTask('default', ['aws_api_swagger_export']);
 
 ```
 
